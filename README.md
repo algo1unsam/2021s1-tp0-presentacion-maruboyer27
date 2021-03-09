@@ -1,6 +1,8 @@
 # Presentación
 
 ## Estudiante: Mariela Boyer
+
+Soy profe de Matematicas e informatica en nivel primario y secundario de un cole en Villa Adelina.   
 _________________
 
 Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
