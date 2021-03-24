@@ -1,6 +1,6 @@
 object abc {
 	method saraza(){
-		
+		  
 	}
 	
 }
