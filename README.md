@@ -2,12 +2,9 @@
 
 ## Estudiante: Mariela Boyer
 
-Soy profe de Matematicas e informatica en nivel primario y secundario de un cole en Villa Adelina.   
-
-https://github.com/algo1unsam/2021s1-tp0-presentacion-maruboyer27/blob/master/MARU.jpg
-_________________
-
+Soy profe de Matematicas e informatica en nivel primario y secundario de un cole en Villa Adelina.   _____________________________________
 Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
+(https://github.com/algo1unsam/2021s1-tp0-presentacion-maruboyer27/blob/master/MARU.jpg)
 
 Consiste en hacer 2 simples tareas:
 - [ ] **Editar este archivo completando tu nombre**. Para eso basta con
